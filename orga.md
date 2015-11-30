@@ -7,7 +7,8 @@
 * un après-midi de *conférences* en partenariat avec le [BreizhCamp 2016](http://www.breizhcamp.org/) pour découvrir ou approfondir un sujet particulier ;
 * une journée de [forum ouvert](http://openspaceworld.org/wp2/what-is/fran/) pour partager et échanger.
 
-fpday est inspiré par [Citcon](http://citconf.com/index.php) et [DevOpsDays](http://www.devopsdays.org/).
+fpday est fortement inspiré par [Citcon](http://citconf.com/index.php) et [DevOpsDays](http://www.devopsdays.org/), des réseaux de
+conférences mondiaux rencontrant un grand succès.
 
 ### Pourquoi s'intéresser à la programmation fonctionnelle?
 
@@ -36,12 +37,9 @@ l'ouest, donc il paraissait pertinent de proposer un événement qui soit compl�
 
 ## Organisation
 
-fpday aura lieu les 25 et 26 mars 2016, à Rennes *et* Nantes.
+fpday aura lieu du 25 mars à 18h30 au 26 mars 2016 à 18h30, à Nantes.
 
 ### Vendredi 25 mars
-
-Le vendredi après-midi est dédié aux conférences en partenariat avec le BreizhCamp qui héberge l'événement à **Rennes**. Les
-propositions de conférence sont gérées sur ce [github]() sous la forme de *Pull Requests*.
 
 Le vendredi soir a lieu la *place de marché* du forum. Tous les participants sont invités à **Nantes** à La Cantine d'Atlantic 2.0
 pour:
@@ -57,21 +55,40 @@ discussions à la fin de la séance.
 
 Un petit-déjeuner, déjeuner et un apéritif seront disponibles pour assurer un approvisionnement adéquat des corps.
 
+### Qu'est ce qu'un forum ouvert ?
+
+Citons l'article de Wikipedia consacré aux forums ouverts (Open Space Technology en anglais):
+
+> Le Forum Ouvert ( Open space ou Open Space Technology anglais ) est une méthode pour structurer des conversations et des
+> conférences. Grâce à cette méthode, des groupes de 5 à 2 000 participants peuvent s'assembler et travailler ensemble. La
+> caractéristique de la méthode est l'ouverture mise à la fois sur le contenu mais aussi sur la forme. Les participants sont invités à
+> travailler ensemble sur une thématique importante et complexe. L'ordre du jour est réalisé par les participants au démarrage du
+> Forum Ouvert en un temps record. Les utilisateurs donnent ainsi leurs propres sujets en plénière et forment des groupes de travail
+> pour chaque thème abordé dans lesquels les projets vont être élaborés.
+
 ## Informations pratiques
+
+### Organisation
+
+fpday est organisé par un comité informel et au contour mouvant de passionnés, sous l'égide d'Atlantic 2.0 et de La Cantine. 
 
 ### Inscriptions
 
-Le prix d'entrée est de 10€. Les inscriptions ne sont pas encore ouvertes.
+Le prix d'entrée est fixée à 10€. Ce prix d'entrée modique a pour but de décourager les sur-inscriptions ou les inscriptions "à tout
+hasard", tout en ne décourageant pas les bourses les plus modestes. L'entrée servira exclusivement à couvrir les frais de
+l'événement. Les inscriptions seront gérées techniquement au moyen d'un site spécialisé et les encaissements
+par Atlantic 2.0.
 
 ## Sponsoring
 
 fpday est à la recherche de sponsors afin de couvrir les frais d'organisation:
 
-* repas et boissons ;
-* coûts de locations de salles éventuels ;
-* frais de déplacements des speakers.
+* repas et boissons pour tous les participants (apéritif le vendredi soir, repas le samedi) ;
+* coûts de locations de salles éventuels en cas d'un afflux de participants ;
+* *t-shirt* distribué aux participants ;
+* frais de déplacements ou invitations pour certains speakers.
 
-Le tarif proposé est de 500€ comprenant:
+Le tarif proposé est de 400€ comprenant:
 
 * impression d'un logo sur le t-shirt de la conférence ;
 * inclusion d'un goodie/flyer dans le pack de conférence remis à l'inscription ;
