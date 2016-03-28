@@ -3,13 +3,15 @@
 ## Qui?
 
 * Jeanne Dupont: jeanne@dupont.com
-  Jeanne Dupont est ingénieure à Grenoble et spécialiste du lambd-calcul des cucurbitacées.
+  Jeanne Dupont est ingénieure à Grenoble et spécialiste du lambda-calcul des cucurbitacées.
+* Jean Robert: jean@robert.com
+  Jean Robert est cultivateur de choux-fleurs en Bretagne
 
 ## En bref
 
 Tout ce que le paradigme fonctionnel doit au chou-fleur....
 
-## Comment?
+## Comment? ##
 
 1. Introduction
 1. le chou-fleur
